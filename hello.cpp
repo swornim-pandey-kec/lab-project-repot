@@ -10,7 +10,7 @@ private:
 public:
     void setData(int n)
     {
-        num = 20;
+        num = 10;
     }
 
     void getData()
